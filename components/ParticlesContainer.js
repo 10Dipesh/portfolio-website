@@ -50,10 +50,10 @@ const ParticleExample = () => {
             },
             move: {
               enable: true,
-              speed: 2,
+              speed: 1,
             },
             number: {
-              value: 120, // Number of particles
+              value: 70, // Number of particles
             },
             opacity: {
               value: 0.5,
