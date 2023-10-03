@@ -53,7 +53,7 @@ const ParticleExample = () => {
               speed: 1,
             },
             number: {
-              value: 70, // Number of particles
+              value: 90, // Number of particles
             },
             opacity: {
               value: 0.5,
